@@ -4,3 +4,4 @@ Board.db
 __pycache__
 logs
 migrations
+.DS_store
