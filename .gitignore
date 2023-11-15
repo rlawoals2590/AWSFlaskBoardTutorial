@@ -3,3 +3,4 @@ Board.db
 *.pyc
 __pycache__
 logs
+migrations
